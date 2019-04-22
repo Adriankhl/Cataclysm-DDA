@@ -20897,6 +20897,7 @@
         {
           "id": [
             "cursor",
+            "highlight",
             "line_target",
             "vehicle_pointer"
           ],
